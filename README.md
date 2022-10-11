@@ -2,7 +2,7 @@
 - 👀 I’m interested in languages and game/software development
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on making games and programs
-- 📫 You can reach me via gmail (jipxian555apk@gmail.com)
+- 📫 You can reach me via gmail (jipxian555pol@gmail.com)
 
 <!---
 CyboBrown/CyboBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
