@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CyboBrown
-- 👀 I’m interested in languages, software development, and machine learning.
-- 🌱 I’m currently learning Python, C++, C, and Java.
-- 💞️ I’m looking to collaborate on making applications
+- 👀 I’m interested in natural languages, software development, and machine learning.
 - 📫 You can reach me via gmail (jipxian555pol@gmail.com)
 
 <!---
