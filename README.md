@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyboBrown
+- 👋 Hi, I’m @CyboBrown and I am currently studying Computer Science.
 - 👀 I’m interested in natural languages, software development, and machine learning.
 - 📫 You can reach me via gmail (jipxian555pol@gmail.com)
 
