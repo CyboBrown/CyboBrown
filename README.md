@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyboBrown and I am currently studying Computer Science.
 - 👀 I’m interested in natural languages, software development, and machine learning.
-- 📫 You can reach me via gmail (jipxian555pol@gmail.com)
+- 📫 You can reach me via gmail (seville2020christian@gmail.com)
 
 <!---
 CyboBrown/CyboBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
