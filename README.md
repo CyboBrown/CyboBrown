@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CyboBrown and I am currently studying Computer Science.
-- 👀 I’m interested in natural languages, software development, and machine learning.
+- 👋 Hi, I’m @CyboBrown and I am a Computer Science graduate.
+- 👀 I’m interested in natural languages, geography, software development, and data science.
 - 📫 You can reach me via gmail (seville2020christian@gmail.com)
 
 <!---
